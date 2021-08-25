@@ -29,10 +29,6 @@
 <lastmod>2021-08-21T18:44:51+09:00</lastmod>
 </url>
 <url>
-<loc>/algorithm/2021-08-21-test/</loc>
-<lastmod>2021-08-21T01:55:01+09:00</lastmod>
-</url>
-<url>
 <loc>/android/2021-08-21-test/</loc>
 <lastmod>2021-08-21T01:55:01+09:00</lastmod>
 </url>
@@ -43,6 +39,10 @@
 <url>
 <loc>/unity/2021-08-21-test/</loc>
 <lastmod>2021-08-21T01:55:01+09:00</lastmod>
+</url>
+<url>
+<loc>/algorithm/2021-08-25-bfs-1012/</loc>
+<lastmod>2021-08-25T23:04:40+09:00</lastmod>
 </url>
 <url>
 <loc>/</loc>
