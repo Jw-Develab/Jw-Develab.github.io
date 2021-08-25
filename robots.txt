@@ -1,1 +1,4 @@
-Sitemap: /sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://jw-develab.github.io/sitemap.xml
