@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="kr-ko"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="kr-ko" /><updated>2021-08-25T23:58:29+09:00</updated><id>/feed.xml</id><title type="html">SJ 개발 저장소</title><subtitle></subtitle><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><entry><title type="html">BOJ 1012 유기농 배추</title><link href="/algorithm/2021-08-25-bfs-1012/" rel="alternate" type="text/html" title="BOJ 1012 유기농 배추" /><published>2021-08-25T00:00:00+09:00</published><updated>2021-08-25T23:04:40+09:00</updated><id>/algorithm/bfs-1012</id><content type="html" xml:base="/algorithm/2021-08-25-bfs-1012/">&lt;h3 id=&quot;1-분석&quot;&gt;1. 분석&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="kr-ko"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="kr-ko" /><updated>2021-09-13T23:35:08+09:00</updated><id>/feed.xml</id><title type="html">SJ 개발 저장소</title><subtitle></subtitle><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><entry><title type="html">BOJ 1012 유기농 배추</title><link href="/algorithm/2021-08-25-bfs-1012/" rel="alternate" type="text/html" title="BOJ 1012 유기농 배추" /><published>2021-08-25T00:00:00+09:00</published><updated>2021-08-25T23:04:40+09:00</updated><id>/algorithm/bfs-1012</id><content type="html" xml:base="/algorithm/2021-08-25-bfs-1012/">&lt;h3 id=&quot;1-분석&quot;&gt;1. 분석&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -101,16 +101,16 @@
 		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="algorithm" /><category term="BOJ" /><category term="BFS" /><summary type="html">1. 분석</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/android/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/android/test</id><content type="html" xml:base="/android/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="android" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/unity/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/unity/test</id><content type="html" xml:base="/unity/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="unity" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/opencv/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/opencv/test</id><content type="html" xml:base="/opencv/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="opencv" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">코엑스 2021 스마트공장 자동화 산업 전시회 홀로렌즈2 AR</title><link href="/projects/2021-08-20-coex-2021-smart-factory-automation-exhibition-hololens2-ar/" rel="alternate" type="text/html" title="코엑스 2021 스마트공장 자동화 산업 전시회 홀로렌즈2 AR" /><published>2021-08-20T00:00:00+09:00</published><updated>2021-08-21T18:44:51+09:00</updated><id>/projects/coex-2021-smart-factory-automation-exhibition-hololens2-ar</id><content type="html" xml:base="/projects/2021-08-20-coex-2021-smart-factory-automation-exhibition-hololens2-ar/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 본인, 디자이너 1명
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="algorithm" /><category term="BOJ" /><category term="BFS" /><summary type="html">1. 분석</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/android/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/android/test</id><content type="html" xml:base="/android/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="android" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/unity/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/unity/test</id><content type="html" xml:base="/unity/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="unity" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/opencv/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/opencv/test</id><content type="html" xml:base="/opencv/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="opencv" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/mrtk/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/mrtk/test</id><content type="html" xml:base="/mrtk/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="mrtk" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">포스팅 준비 중입니다.</title><link href="/arfoundation/2021-08-21-test/" rel="alternate" type="text/html" title="포스팅 준비 중입니다." /><published>2021-08-21T00:00:00+09:00</published><updated>2021-08-21T01:55:01+09:00</updated><id>/arfoundation/test</id><content type="html" xml:base="/arfoundation/2021-08-21-test/"></content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="arfoundation" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">코엑스 2021 스마트공장자동화산업전 홀로렌즈2 AR 개발</title><link href="/projects/2021-08-20-coex-2021-smart-factory-automation-exhibition-hololens2-ar/" rel="alternate" type="text/html" title="코엑스 2021 스마트공장자동화산업전 홀로렌즈2 AR 개발" /><published>2021-08-20T00:00:00+09:00</published><updated>2021-09-13T23:34:20+09:00</updated><id>/projects/coex-2021-smart-factory-automation-exhibition-hololens2-ar</id><content type="html" xml:base="/projects/2021-08-20-coex-2021-smart-factory-automation-exhibition-hololens2-ar/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 본인, 디자이너 1명
 - 담당역할: UI/UX, 프론트엔드, 백엔드
 - 개발환경: Unity, MRTK, C#
-- 개발기간: 2021.08 ~ 진행중
+- 개발기간: 2021.08 ~ 2021.09
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;1-요구사항&quot;&gt;1. 요구사항&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;홀로렌즈 2 를 이용한 설비 예지 보전 AR 환경 구축&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;2-시스템-구조&quot;&gt;2. 시스템 구조&lt;/h3&gt;
@@ -120,14 +120,18 @@
     &lt;p&gt;네트워크 구조&lt;/p&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;이미지&lt;/p&gt;
+      &lt;p&gt;센서 -&amp;gt; DAQ -&amp;gt; 클라우드 서버 -&amp;gt; 무선망 -&amp;gt; 홀로렌즈 2 AR&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;서비스 구조&lt;/p&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;이미지&lt;/p&gt;
+      &lt;p&gt;사용자는 홀로렌즈 2 AR 앱을 통해 설비의 센서 포인트 상태와 수치를 조회한다.&lt;/p&gt;
+
+      &lt;p&gt;이상이 있는 센서 포인트의 진단 결과를 텍스트로 조회한다.&lt;/p&gt;
+
+      &lt;p&gt;이상이 있는 부품의 3D 모델을 조회하고 인터렉션을 통해 설비의 상태를 파악한다.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -139,35 +143,35 @@
     &lt;p&gt;네트워크 통신&lt;/p&gt;
 
     &lt;blockquote&gt;
-
+      &lt;p&gt;홀로렌즈 2 AR 앱과 클라우드 ExRBM의 통신으로 센서 데이터를 받는다.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;오브젝트 증강&lt;/p&gt;
 
     &lt;blockquote&gt;
-
+      &lt;p&gt;QR Code Tracking을 사용&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;오브젝트 인터랙션&lt;/p&gt;
 
     &lt;blockquote&gt;
-
+      &lt;p&gt;MRTK에서 제공하는 인터렉션 컴포넌트를 이용&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;UI 인터랙션&lt;/p&gt;
 
     &lt;blockquote&gt;
-
+      &lt;p&gt;상동&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;컨텐츠&lt;/p&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;내용&lt;/p&gt;
+      &lt;p&gt;센서 포인트 상태 조회, 부품 상태 모델 조회&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -176,17 +180,35 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;구분&lt;/p&gt;
+    &lt;p&gt;전시회 현장 촬영물&lt;/p&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;이미지&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/83268337/133098347-6f5a791c-53d7-474f-8754-f64a2ace650e.jpg&quot; /&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;시연 영상1&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;video width=&quot;70%&quot; heights=&quot;70%&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+                 &lt;source src=&quot;https://user-images.githubusercontent.com/83268337/133100173-94bc718d-f31e-4f0f-a456-485c132221e4.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+             &lt;/video&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;시연 영상2&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;video width=&quot;70%&quot; heights=&quot;70%&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
+                 &lt;source src=&quot;https://user-images.githubusercontent.com/83268337/133100363-2d73458d-b54e-435d-b613-5221d7a63980.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+             &lt;/video&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 본인, 디자이너 1명 - 담당역할: UI/UX, 프론트엔드, 백엔드 - 개발환경: Unity, MRTK, C# - 개발기간: 2021.08 ~ 진행중</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">OPC DA / UA Server</title><link href="/projects/2021-07-05-opc-da-and-ua-server/" rel="alternate" type="text/html" title="OPC DA / UA Server" /><published>2021-07-05T00:00:00+09:00</published><updated>2021-08-21T21:05:02+09:00</updated><id>/projects/opc-da-and-ua-server</id><content type="html" xml:base="/projects/2021-07-05-opc-da-and-ua-server/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 1 Developer
+&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 본인, 디자이너 1명 - 담당역할: UI/UX, 프론트엔드, 백엔드 - 개발환경: Unity, MRTK, C# - 개발기간: 2021.08 ~ 2021.09</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">OPC DA / UA Client 개발</title><link href="/projects/2021-07-05-opc-da-and-ua-server/" rel="alternate" type="text/html" title="OPC DA / UA Client 개발" /><published>2021-07-05T00:00:00+09:00</published><updated>2021-09-13T23:34:49+09:00</updated><id>/projects/opc-da-and-ua-server</id><content type="html" xml:base="/projects/2021-07-05-opc-da-and-ua-server/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 1 Developer
 - 담당역할: OPC DA/UA 서버 구현
 - 개발환경: Visual studio, OPC LABS, C#
 - 개발기간: 2021.07 ~ 일시 중지
@@ -243,7 +265,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 1 Developer - 담당역할: OPC DA/UA 서버 구현 - 개발환경: Visual studio, OPC LABS, C# - 개발기간: 2021.07 ~ 일시 중지</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">고려아연 Android AR 환경 구축</title><link href="/projects/2021-02-22-krzn-factory5-ar/" rel="alternate" type="text/html" title="고려아연 Android AR 환경 구축" /><published>2021-02-22T00:00:00+09:00</published><updated>2021-08-21T20:53:24+09:00</updated><id>/projects/krzn-factory5-ar</id><content type="html" xml:base="/projects/2021-02-22-krzn-factory5-ar/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 1 Project Manager, 1 Developer, 1 Designer
+&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 1 Developer - 담당역할: OPC DA/UA 서버 구현 - 개발환경: Visual studio, OPC LABS, C# - 개발기간: 2021.07 ~ 일시 중지</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">고려아연 Android AR 개발</title><link href="/projects/2021-02-22-krzn-factory5-ar/" rel="alternate" type="text/html" title="고려아연 Android AR 개발" /><published>2021-02-22T00:00:00+09:00</published><updated>2021-09-13T23:34:05+09:00</updated><id>/projects/krzn-factory5-ar</id><content type="html" xml:base="/projects/2021-02-22-krzn-factory5-ar/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 1 Project Manager, 1 Developer, 1 Designer
 - 담당역할: Frontend (only frame), backend
 - 개발환경: Unity, AR Foundation, AR Core, C#, Android
 - 개발기간: 2021.02 ~ 2021.06
@@ -338,99 +360,13 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 1 Project Manager, 1 Developer, 1 Designer - 담당역할: Frontend (only frame), backend - 개발환경: Unity, AR Foundation, AR Core, C#, Android - 개발기간: 2021.02 ~ 2021.06 - 납품규모: between 50 mil. ~ 100 mil. won</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">유한킴벌리 Android AR 환경 구축</title><link href="/projects/2020-09-14-yuhan-sabbel-ar/" rel="alternate" type="text/html" title="유한킴벌리 Android AR 환경 구축" /><published>2020-09-14T00:00:00+09:00</published><updated>2021-08-21T21:04:40+09:00</updated><id>/projects/yuhan-sabbel-ar</id><content type="html" xml:base="/projects/2020-09-14-yuhan-sabbel-ar/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 1 Project Manager, 1 Developer, 1 Designer
+&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 1 Project Manager, 1 Developer, 1 Designer - 담당역할: Frontend (only frame), backend - 개발환경: Unity, AR Foundation, AR Core, C#, Android - 개발기간: 2021.02 ~ 2021.06 - 납품규모: between 50 mil. ~ 100 mil. won</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">유한킴벌리 Android AR 개발</title><link href="/projects/2020-09-14-yuhan-sabbel-ar/" rel="alternate" type="text/html" title="유한킴벌리 Android AR 개발" /><published>2020-09-14T00:00:00+09:00</published><updated>2021-09-13T23:34:34+09:00</updated><id>/projects/yuhan-sabbel-ar</id><content type="html" xml:base="/projects/2020-09-14-yuhan-sabbel-ar/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 1 Project Manager, 1 Developer, 1 Designer
 - 담당역할: Frontend (only frame), backend(except network communication)
 - 개발환경: Unity, AR Foundation, AR Core, C#, Android
 - 개발기간: 2020.09 ~ 2021.01
 - 납품규모: between 20 mil. ~ 50 mil. won
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;details&gt;
-    &lt;summary&gt;&lt;b&gt;프로젝트 상세 보기&lt;/b&gt;&lt;/summary&gt;
-    &lt;div&gt;
-        &lt;h2&gt;
-            - 요구사항
-        &lt;/h2&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Yuhan Kimberly 대전 공장 내에 SABBEL 공정에 대해 설비 예지 보전을 위한 AR 환경을 구축&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;br /&gt;
-    &lt;div&gt;
-        &lt;h2&gt;
-            - 시스템 구조
-        &lt;/h2&gt;
-        &lt;ul&gt;
-            &lt;li&gt;네트워크 구조&lt;/li&gt;
-            &lt;blockquote&gt;
-                &lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125008919-7e19b280-e09e-11eb-9dab-14aa5566093f.png&quot; /&gt;
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-            &lt;li&gt;서비스 구조&lt;/li&gt;
-            &lt;blockquote&gt;
-                &lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125013547-f84e3500-e0a6-11eb-8205-c8a27970b5ab.png&quot; /&gt;
-            &lt;/blockquote&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;br /&gt;
-    &lt;div&gt;
-        &lt;h2&gt;
-            - SW 구성
-        &lt;/h2&gt;
-        &lt;ul&gt;
-            &lt;li&gt;네트워크 통신&lt;/li&gt;
-            &lt;blockquote&gt;
-				Couroutine, UnityWebRequest, JsonUtility 및 사용자 정의 Wrapper 클래스를 이용
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-            &lt;li&gt;오브젝트 증강&lt;/li&gt;
-            &lt;blockquote&gt;
-                AR Plane과 Raycast Manager 클래스를 이용
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-            &lt;li&gt;오브젝트 인터랙션&lt;/li&gt;
-            &lt;blockquote&gt;
-                사용자 메소드 구현 후 인스펙터 내 OnClick 이벤트에 등록
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-            &lt;li&gt;UI 인터랙션&lt;/li&gt;
-            &lt;blockquote&gt;
-                오브젝트 인터렉션과 동일하게 구현
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-            &lt;li&gt;컨텐츠&lt;/li&gt;
-            &lt;blockquote&gt;
-                local에서 데이터를 불러오도록 구현
-            &lt;/blockquote&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;br /&gt;
-    &lt;div&gt;
-        &lt;h2&gt;
-            - 결과물
-        &lt;/h2&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Sabble 전체 뷰, 플레인 디텍션&lt;/li&gt;
-            &lt;blockquote&gt;
-                &lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125186991-55ddaf80-e268-11eb-886c-6a70ae56e96f.png&quot; /&gt;
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-            &lt;blockquote&gt;
-                &lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125187002-5d9d5400-e268-11eb-81b4-5c5eae419038.png&quot; /&gt;
-            &lt;/blockquote&gt;
-            &lt;li&gt;Sabbel 2층, 이미지 트래킹&lt;/li&gt;
-            &lt;blockquote&gt;
-                &lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125187013-6726bc00-e268-11eb-8589-4dbd564bece9.png&quot; /&gt;
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-            &lt;blockquote&gt;
-                &lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125187022-7279e780-e268-11eb-9c07-ddf61158b102.png&quot; /&gt;
-            &lt;/blockquote&gt;
-            &lt;br /&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;br /&gt;
-&lt;/details&gt;
 &lt;h3 id=&quot;1-요구사항&quot;&gt;1. 요구사항&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -525,76 +461,4 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 1 Project Manager, 1 Developer, 1 Designer - 담당역할: Frontend (only frame), backend(except network communication) - 개발환경: Unity, AR Foundation, AR Core, C#, Android - 개발기간: 2020.09 ~ 2021.01 - 납품규모: between 20 mil. ~ 50 mil. won</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">남동발전 설비 관리 Android App 개발</title><link href="/projects/2020-06-22-koen-cctv-streaming-server/" rel="alternate" type="text/html" title="남동발전 설비 관리 Android App 개발" /><published>2020-06-22T00:00:00+09:00</published><updated>2021-08-21T21:08:30+09:00</updated><id>/projects/koen-cctv-streaming-server</id><content type="html" xml:base="/projects/2020-06-22-koen-cctv-streaming-server/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 참여인원: 1 Project Manager, 3 Developer, 1 Designer
-- 담당역할: Develop CCTV streaming server 구현
-- 개발환경: Nodejs, RTSP, ffmpeg, javascript
-- 개발기간: 2020.06 ~ 2020.09
-- 납품규모: between 200 mil. ~ 300 mil. won
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;1-요구사항&quot;&gt;1. 요구사항&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Korea Energy에 Smart Device의 설비 관리 안드로이드 앱 개발&lt;/li&gt;
-  &lt;li&gt;CCTV 스트리밍 기능 구현&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-시스템-구조&quot;&gt;2. 시스템 구조&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;네트워크 구조&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125027021-8a166c00-e0c0-11eb-83b3-fc341f77d9c0.png&quot; /&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;서비스 구조&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/83268337/125026971-7965f600-e0c0-11eb-94ef-f7dcd6fa656c.png&quot; /&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-sw-구성&quot;&gt;3. SW 구성&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;백엔드&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;http와 express 모듈을 이용한 웹페이지 서버 구현&lt;/p&gt;
-
-      &lt;p&gt;socket.io와 rtsp-ffmpeg 모듈을 이용한 스트리밍 서버 구현&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;4-결과물&quot;&gt;4. 결과물&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;구분&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;video width=&quot;70%&quot; heights=&quot;70%&quot; controls=&quot;&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
-                    &lt;source src=&quot;https://user-images.githubusercontent.com/83268337/125025882-70742500-e0be-11eb-8ff6-7072bd1e6c6a.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-                &lt;/video&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 1 Project Manager, 3 Developer, 1 Designer - 담당역할: Develop CCTV streaming server 구현 - 개발환경: Nodejs, RTSP, ffmpeg, javascript - 개발기간: 2020.06 ~ 2020.09 - 납품규모: between 200 mil. ~ 300 mil. won</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">학부 프로젝트. 식단 추천 Android App 개발</title><link href="/projects/2018-03-05-diet-suggestion-android-app/" rel="alternate" type="text/html" title="학부 프로젝트. 식단 추천 Android App 개발" /><published>2018-03-05T00:00:00+09:00</published><updated>2021-08-21T01:50:39+09:00</updated><id>/projects/diet-suggestion-android-app</id><content type="html" xml:base="/projects/2018-03-05-diet-suggestion-android-app/">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 어플개요: 계절 식재료를 바탕으로 하는 주요리 및 식단 추천 안드로이드 어플리케이션
-- 참여인원: 1 Developer
-- 담당역할: frontend, backend 설계/구현
-- 개발환경: Android studio, java, sqlite
-- 개발기간: 2018.03 ~ 2018.09
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 어플개요: 계절 식재료를 바탕으로 하는 주요리 및 식단 추천 안드로이드 어플리케이션 - 참여인원: 1 Developer - 담당역할: frontend, backend 설계/구현 - 개발환경: Android studio, java, sqlite - 개발기간: 2018.03 ~ 2018.09</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;hr /&gt;</content><author><name>jw h</name><email>jwhong.career@gmail.com</email></author><category term="projects" /><summary type="html">- 참여인원: 1 Project Manager, 1 Developer, 1 Designer - 담당역할: Frontend (only frame), backend(except network communication) - 개발환경: Unity, AR Foundation, AR Core, C#, Android - 개발기간: 2020.09 ~ 2021.01 - 납품규모: between 20 mil. ~ 50 mil. won</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/default_thumnail.jpg" /><media:content medium="image" url="/assets/img/default_thumnail.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
