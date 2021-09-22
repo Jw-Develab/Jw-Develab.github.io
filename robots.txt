@@ -12,4 +12,4 @@ Allow: /flutter/
 Allow: /opencv/
 Allow: /algorithm/
 
-Sitemap: https://jw-develab.github.io/sitemap.xml
+Sitemap: {{ '/sitemap.xml' | relative_url | prepend: site.url }}
