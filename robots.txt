@@ -3,10 +3,5 @@ Disallow: /projects/
 
 User-agent: *
 Allow: /
-Allow: /about/
-Allow: /unity/
-Allow: /android/
-Allow: /opencv/
-Allow: /algorithm/
 
 Sitemap: https://jw-develab.github.io/sitemap.xml
